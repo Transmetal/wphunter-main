@@ -5,20 +5,6 @@
 
 <h4 align="center">Fastest tool to find username and password brute forcing.</h4>
 
-<p align="center">
-  <a href="https://github.com/thenurhabib/wphunter/releases">
-    <img src="https://img.shields.io/github/release/thenurhabib/wphunter.svg">
-  </a>
-  <a href="https://travis-ci.com/thenurhabib/wphunter">
-    <img src="https://img.shields.io/travis/com/thenurhabib/wphunter.svg">
-  </a>
-  <a href="https://github.com/thenurhabib/wphunter/issues?q=is%3Aissue+is%3Aclosed">
-      <img src="https://img.shields.io/github/issues-closed-raw/thenurhabib/wphunter.svg">
-  </a>
-</p>
-
-![wp hunter](./img/im1.png)
-
 <hr>
 
 ### wp hunter is a fastest tool to detect username of an wordpress website and you can also perform password brute forcing in login page with default password file or you can use your own password list.
@@ -42,7 +28,7 @@
 ### Documentation
 ### install
 ```yaml
-git clone https://github.com/thenurhabib/wphunter.git
+git clone https://github.com/Transmetal/wphunter-main
 cd wphunter
 chmod -R 777 attack.sh
 ./attack.sh
@@ -77,16 +63,5 @@ Password Bruteforce:
 
 ```
 <br>
-
-
-
-### Author
-```yaml
-Name       : Md. Nur habib
-Medium     : thenurhabib.medium.com
-Twitter    : https://twitter.com/thenurhab1b
-HackerRank : https://www.hackerrank.com/thenurhabib
-
-```
 
 ##### Thank You.
