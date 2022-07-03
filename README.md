@@ -18,13 +18,6 @@
 - Uou can use your own password list.
 
 
-<br>
-
-![wp hunter](./img/img.png)
-
-<br>
-
-
 ### Documentation
 ### install
 ```yaml
@@ -63,5 +56,3 @@ Password Bruteforce:
 
 ```
 <br>
-
-##### Thank You.
